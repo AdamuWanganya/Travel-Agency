@@ -1,0 +1,18 @@
+body {
+    background-color: #37db1a;
+}
+
+.headers {
+    color: #f7325e;
+    text-color: #7dc410;
+    font-family: fantasy;
+}
+
+.tropical {
+    text-align: center;
+}
+
+.popular {
+    font-size: large;
+    color: darkblue;
+}
